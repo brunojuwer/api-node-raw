@@ -19,4 +19,4 @@ const generateInstance = () => {
 module.exports = { generateInstance }
 
 
-generateInstance().create({id:2, name:"bruno"}).then(console.log)
+// generateInstance().create({id:2, name:"bruno"}).then(console.log)
